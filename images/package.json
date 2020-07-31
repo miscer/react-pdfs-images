@@ -1,0 +1,10 @@
+{
+  "name": "pdfs",
+  "version": "0.0.0",
+  "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "puppeteer": "^5.2.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
